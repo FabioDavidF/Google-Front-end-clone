@@ -1,5 +1,4 @@
 #images-button {
-
     font-size: 2vw;
     position: absolute;
     left: 92vw;
@@ -7,3 +6,9 @@
 
 }
 
+#advanced-button {
+    font-size: 2vw;
+    position: absolute;
+    left: 81vw;
+    bottom: 97vh;
+}
