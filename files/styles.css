@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(29, 27, 27);
+}
+
 #images-button {
     font-size: 2vw;
     position: absolute;
@@ -11,4 +15,29 @@
     position: absolute;
     left: 81vw;
     bottom: 97vh;
+}
+
+#search-bar {
+    font-size: 24px;
+    height: 4vh;
+    width: 30vw;
+    position: absolute;
+    left: 34vw;
+    bottom: 48vh;
+}
+
+#submitter {
+    height: 4vh;
+    width: 6vw;
+    position: absolute;
+    left: 65vw;
+    bottom: 48vh;
+}
+
+#goolge {
+    height: 50vh;
+    width: 70vw;
+    position: absolute;
+    left: 25vw;
+    bottom: 32vh;
 }
