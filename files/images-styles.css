@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(29, 27, 27);
+}
+
+#back-button {
+    font-size: 2vw;
+    position: absolute;
+    left: 93vw;
+    bottom: 96vh;
+
+}
+
+#advanced-button {
+    font-size: 2vw;
+    position: absolute;
+    left: 82vw;
+    bottom: 96vh;
+}
+
+#search-bar {
+    font-size: 24px;
+    height: 3vh;
+    width: 30vw;
+    position: absolute;
+    left: 30vw;
+    bottom: 48vh;
+}
+
+#submitter {
+    font-size: 24px;
+    height: 4vh;
+    width: 8vw;
+    position: absolute;
+    left: 61vw;
+    bottom: 48vh;
+}
+
+#goolge {
+    height: 22vh;
+    width: 35vw;
+    position: absolute;
+    left: 32vw;
+    bottom: 52vh;
+}
