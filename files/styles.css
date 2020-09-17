@@ -5,30 +5,39 @@ body {
 #images-button {
     font-size: 2vw;
     position: absolute;
-    left: 92vw;
-    bottom: 97vh;
+    left: 91vw;
+    bottom: 96vh;
 
 }
 
 #advanced-button {
     font-size: 2vw;
     position: absolute;
-    left: 81vw;
-    bottom: 97vh;
+    left: 80vw;
+    bottom: 96vh;
 }
 
-#search {
+#search-bar {
     font-size: 24px;
-    height: 4vh;
+    height: 3vh;
     width: 30vw;
     position: absolute;
-    left: 34vw;
+    left: 30vw;
+    bottom: 48vh;
+}
+
+#submitter {
+    font-size: 24px;
+    height: 4vh;
+    width: 8vw;
+    position: absolute;
+    left: 61vw;
     bottom: 48vh;
 }
 
 #goolge {
-    height: 16vh;
-    width: 23vw;
+    height: 22vh;
+    width: 35vw;
     position: absolute;
     left: 32vw;
     bottom: 52vh;
