@@ -27,9 +27,9 @@ body {
 }
 
 #goolge {
-    height: 50vh;
-    width: 70vw;
+    height: 16vh;
+    width: 23vw;
     position: absolute;
-    left: 28vw;
-    bottom: 32vh;
+    left: 32vw;
+    bottom: 52vh;
 }
