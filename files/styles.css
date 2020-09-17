@@ -30,10 +30,10 @@ body {
 #submitter {
     font-size: 16px;
     height: 4vh;
-    width: 8vw;
+    width: 10vw;
     position: absolute;
-    left: 46vw;
-    bottom: 43vh;
+    left: 38vw;
+    bottom: 42vh;
 }
 
 #goolge {
@@ -42,4 +42,13 @@ body {
     position: absolute;
     left: 32vw;
     bottom: 52vh;
+}
+
+#lucky-submitter {
+    font-size: 16px;
+    height: 4vh;
+    width: 10vw;
+    position: absolute;
+    left: 51vw;
+    bottom: 42vh;
 }

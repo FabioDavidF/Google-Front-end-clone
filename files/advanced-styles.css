@@ -65,5 +65,9 @@ h2 {
     height: 5vh;
     width: 15vw;
     position: relative;
-    
+    left: 33vw;
+    top: 2vh;
+    color: white;
+    background-color: rgb(61, 61, 231);
+    font-weight: bold;
 }
