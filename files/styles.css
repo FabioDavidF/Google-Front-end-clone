@@ -18,21 +18,22 @@ body {
 }
 
 #search-bar {
-    font-size: 24px;
+    border-radius: 22px;
+    font-size: 16px;
     height: 3vh;
-    width: 30vw;
+    width: 39vw;
     position: absolute;
     left: 30vw;
     bottom: 48vh;
 }
 
 #submitter {
-    font-size: 24px;
+    font-size: 16px;
     height: 4vh;
     width: 8vw;
     position: absolute;
-    left: 61vw;
-    bottom: 48vh;
+    left: 46vw;
+    bottom: 43vh;
 }
 
 #goolge {
