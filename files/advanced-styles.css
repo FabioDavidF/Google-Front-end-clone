@@ -1,5 +1,11 @@
 body {
     background-color: rgb(29, 27, 27);
+    font-family: arial, sans-serif;
+    color: rgb(231, 231, 231);
+}
+
+h1 {
+    text-align: center;
 }
 
 #images-button {
@@ -15,4 +21,38 @@ body {
     position: absolute;
     left: 93vw;
     bottom: 96vh;
+}
+
+#form {
+    padding: 5vw;
+}
+
+h2 {
+    position: relative;
+    left: 5vw;
+    top: 5vh;
+}
+
+#search-bar {
+    position: relative;
+    bottom: 4vh;
+    left: 17vw;
+}
+
+#search-bar2 {
+    position: relative;
+    bottom: 4vh;
+    left: 17vw;
+}
+
+#search-bar3 {
+    position: relative;
+    bottom: 4vh;
+    left: 17vw;
+}
+
+#search-bar4 {
+    position: relative;
+    bottom: 4vh;
+    left: 17vw;
 }

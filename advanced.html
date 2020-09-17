@@ -7,7 +7,48 @@
     </head>
     <body>
 
-        <h1>Find pages with:</h1>
+        <h1>Advanced search</h1>
+        <h2>Find words with</h2>
+
+
+        <form action="https://google.com/search?" id='form'>
+            <div>
+                <h3>All these words:</h3>
+                <div>
+                    <input type="text" name="as_q" id='search-bar'>
+                </div>
+            </div>
+
+            <div>
+                <div>
+                    <h3>This exact <br> expression or phrase:</h3>
+                </div>
+                <div>
+                    <input type="text" name="as_epq" id='search-bar2'>
+                </div>
+            </div>
+
+            <div>
+                <div>
+                    <h3>Any of these words:</h3>
+                </div>
+                <div>
+                    <input type="text" name="as_oq" id='search-bar3'>
+                </div>
+            </div>
+
+            <div>
+                <div>
+                    <h3>None of these words:</h3>
+                </div>
+                <div>
+                    <input type="text" name="as_eq" id='search-bar4'>
+                </div>
+            </div>
+            <div id='submitter'>
+                <input type="submit">
+            </div>
+        </form>
 
         <div id='back-button'>
             <button>
