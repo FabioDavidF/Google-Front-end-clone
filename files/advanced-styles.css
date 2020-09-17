@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(29, 27, 27);
+}
+
+#images-button {
+    font-size: 2vw;
+    position: absolute;
+    left: 84vw;
+    bottom: 96vh;
+
+}
+
+#back-button {
+    font-size: 2vw;
+    position: absolute;
+    left: 93vw;
+    bottom: 96vh;
+}
